@@ -24,9 +24,9 @@ def caching_fibonacci():
 fib = caching_fibonacci()
 
 # Перевіряю
+
 print(fib(9))  # 34
-print(fib(9))  # 34
-print(fib(9))  # 34
+
 
 
 
