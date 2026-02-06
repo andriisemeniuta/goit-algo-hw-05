@@ -15,6 +15,7 @@ text = "Загальний дохід працівника складаєтьс�
 
 total_income = sum_profit(text, generator_numbers)
 print(total_income)
+print(total_income)
 
 
 
